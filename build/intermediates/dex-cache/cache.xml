@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.3\e829c3543ab5a6b3ff818615a8620024f6a14fe0\box2dlights-1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e829c3543ab5a6b3ff818615a8620024f6a14fe0">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\box2dlights-1.3-ba8ef6f14959d914e69b32192b83cfe5ce93a7d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.5.6\be5fd0a5f5ee116bf536ba103f85de165036aaaa\gdx-controllers-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="be5fd0a5f5ee116bf536ba103f85de165036aaaa">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.5.6-d965cf5893150c24c17739e56be5180995854cbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.5.6\c3bac4af85559dfda8b72cc40be772805d812bb\gdx-freetype-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0c3bac4af85559dfda8b72cc40be772805d812bb">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.5.6-70af81e9a4c47b00c9267ff1b71971c8062fccae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.5.6\3bfc3757321cfc631eff7cd226a268b88a54ea14\gdx-controllers-android-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3bfc3757321cfc631eff7cd226a268b88a54ea14">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.5.6-cf3c9a6b7890fa4e75b256f3613d938bb6fe52ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.6\93418008f79684e0fbe15d487c82c21b63389f18\gdx-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="93418008f79684e0fbe15d487c82c21b63389f18">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-1.5.6-a07df2dc47aec0a3208ce491a989733af9db7d93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.6\3031ab23b99fca1c102ad9fa866aeb06f938b8e2\gdx-backend-android-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3031ab23b99fca1c102ad9fa866aeb06f938b8e2">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.6-29220584e64683fc92fdcc9bdbd906d38e328750.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.6\7587cece665b8bbcc8e02171a77cb47a2bf0b155\gdx-box2d-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7587cece665b8bbcc8e02171a77cb47a2bf0b155">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.6-b4cb5fd265c7fa838d650b60e66ce51cc21064fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85491cb8ac79f42b9fad8a82af425bf7da015ac9">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\core-1.0-824036ff1feb2921580b8ca87f52e64fcd611534.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.4.0\fb2f970ab2d7833e1f8927b1bc4560cba8b23c6c\ashley-1.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fb2f970ab2d7833e1f8927b1bc4560cba8b23c6c">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\ashley-1.4.0-727d4fda7f90a812bb84fc4fa79ccc09498f068b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.5.6\700f810f926803272cd98bfded1e0da7834012d9\gdx-bullet-1.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="700f810f926803272cd98bfded1e0da7834012d9">
+        <dex dex="C:\Users\Justin\Documents\AndroidStudioProjects\BomberMan\Bomberman\android\build\intermediates\pre-dexed\debug\gdx-bullet-1.5.6-5157f3a7db1489eba17045f427649c791001aa22.jar" />
+    </item>
+
+</items>
